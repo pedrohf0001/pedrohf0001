@@ -14,6 +14,10 @@ Sou apaixonado por tecnologia e por transformar desafios em soluções escaláve
 - **Outros:** Git, GitHub, Power BI  
 
 ---
+📖 What I am currently learning / improving on
+Languages and Tools:
+
+---
 
 ## 📂 Projetos em Destaque  
 - 🔗 **[DSList](https://github.com/pedrohf0001/dslist)** → A aplicação consiste em uma lista de games, o objetivo principal foi passar por todo o desenvolvimento de um projeto Java Spring.  
