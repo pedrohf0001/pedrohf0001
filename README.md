@@ -20,7 +20,7 @@ Languages and Tools:
 ## 🚀 Skills  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,html,css,oracle,postgres,mysql,docker,aws,git" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,html,css,postgres,mysql,docker,aws,git" />
 </p>
 
 👾 What I am interested in learning at some point
