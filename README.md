@@ -13,11 +13,8 @@ Sou apaixonado por tecnologia e por transformar desafios em soluções escaláve
 - **ERP Sankhya:** Customizações, integrações, BI, scripts e automações  
 - **Outros:** Git, GitHub, Power BI  
 
----
 📖 What I am currently learning / improving on
 Languages and Tools:
-
-## 🚀 Skills  
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,html,css,postgres,mysql,docker,aws,git" />
@@ -25,7 +22,9 @@ Languages and Tools:
 
 👾 What I am interested in learning at some point
 
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,linux,js,ts,react,html,css,postgres,mysql,docker,aws,git" />
+</p>
 ---
 
 ## 📂 Projetos em Destaque  
