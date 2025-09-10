@@ -16,18 +16,18 @@ Sou apaixonado por tecnologia e por transformar desafios em soluções escaláve
 ---
 
 ## 📂 Projetos em Destaque  
-- 🔗 **[Desafio1](https://github.com/seu-usuario/desafio1)** → Aplicação prática de **Inversão de Controle e Injeção de Dependências** em Java.  
+- 🔗 **[DSList](https://github.com/pedrohf0001/dslist)** → A aplicação consiste em uma lista de games, o objetivo principal foi passar por todo o desenvolvimento de um projeto Java Spring.  
 - 📊 **Integração Sankhya + WMS** → Script em JavaScript para comunicação com APIs externas e automação de estoque.  
 - 🛒 **Hub de Integração com Marketplaces** → Projeto em Java + Spring Boot para centralizar pedidos B2B/B2C com Sankhya.  
 
 ---
 
 ## 🎯 Objetivo Profissional  
-Atuar como **Desenvolvedor Back-End Java** aplicando boas práticas de arquitetura, integração de sistemas e soluções escaláveis.  
+Atuar como **Desenvolvedor Back-End Java de Full Stack** aplicando boas práticas de arquitetura, integração de sistemas e soluções escaláveis.  
 Busco sempre aprender novas tecnologias e contribuir em equipes que valorizem **inovação, colaboração e qualidade de software**.  
 
 ---
 
 ## 📫 Vamos conversar?  
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-linkedin)  
-- 📧 Email: seuemail@email.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/pedro-fonseca-14a65a118/)  
+- 📧 Email: pedro10.fonseca@hotmail.com  
