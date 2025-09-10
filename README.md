@@ -36,7 +36,7 @@ Languages and Tools:
 ---
 
 ## 🎯 Objetivo Profissional  
-Atuar como **Desenvolvedor Back-End Java de Full Stack** aplicando boas práticas de arquitetura, integração de sistemas e soluções escaláveis.  
+Atuar como **Desenvolvedor Back-End Java e ou Full Stack** aplicando boas práticas de arquitetura, integração de sistemas e soluções escaláveis.  
 
 ---
 
