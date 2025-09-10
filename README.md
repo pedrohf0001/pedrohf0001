@@ -26,6 +26,8 @@ Languages and Tools:
   <img src="https://skillicons.dev/icons?i=python,linux,c,c++,WildFly" />
 </p>
 
+---
+
 ## 📂 Projetos em Destaque  
 - 🔗 **[DSList](https://github.com/pedrohf0001/dslist)** → A aplicação consiste em uma lista de games, o objetivo principal foi passar por todo o desenvolvimento de um projeto Java Spring.  
 - 📊 **Integração Sankhya + WMS** → Script em JavaScript para comunicação com APIs externas e automação de estoque.  
