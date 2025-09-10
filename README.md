@@ -25,7 +25,6 @@ Languages and Tools:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,linux,c,c++,WildFly" />
 </p>
----
 
 ## 📂 Projetos em Destaque  
 - 🔗 **[DSList](https://github.com/pedrohf0001/dslist)** → A aplicação consiste em uma lista de games, o objetivo principal foi passar por todo o desenvolvimento de um projeto Java Spring.  
