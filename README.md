@@ -2,7 +2,7 @@
 
 💻 **Engenheiro de Computação** | 🚀 **Desenvolvedor Back-End Java** | 📊 **Especialista em ERP Sankhya**  
 
-Sou apaixonado por tecnologia e por transformar desafios em soluções escaláveis. Tenho experiência com **desenvolvimento back-end, banco de dados e integração de sistemas**, além de forte atuação em **ERP Sankhya**, desde suporte avançado até customizações e desenvolvimento de módulos.  
+Sou apaixonado por tecnologia e por transformar desafios em soluções escaláveis. Tenho experiência com **desenvolvimento back-end, banco de dados e integração de sistemas**, além de forte atuação em **ERP Sankhya**, desde suporte avançado até customizações e desenvolvimento de módulos. Busco sempre aprender novas tecnologias e contribuir em equipes que valorizem **inovação, colaboração e qualidade de software**.  
 
 ---
 
@@ -37,7 +37,6 @@ Languages and Tools:
 
 ## 🎯 Objetivo Profissional  
 Atuar como **Desenvolvedor Back-End Java de Full Stack** aplicando boas práticas de arquitetura, integração de sistemas e soluções escaláveis.  
-Busco sempre aprender novas tecnologias e contribuir em equipes que valorizem **inovação, colaboração e qualidade de software**.  
 
 ---
 
