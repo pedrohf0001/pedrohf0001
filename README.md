@@ -17,6 +17,15 @@ Sou apaixonado por tecnologia e por transformar desafios em soluções escaláve
 📖 What I am currently learning / improving on
 Languages and Tools:
 
+## 🚀 Skills  
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,html,css,oracle,postgres,mysql,docker,aws,git" />
+</p>
+
+👾 What I am interested in learning at some point
+
+
 ---
 
 ## 📂 Projetos em Destaque  
