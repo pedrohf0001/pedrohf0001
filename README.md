@@ -17,13 +17,13 @@ Sou apaixonado por tecnologia e por transformar desafios em soluções escaláve
 Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,html,css,postgres,mysql,docker,kubernetes,aws,git,postman,copilot" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,html,css,postgres,github,mysql,docker,kubernetes,aws,git,postman,copilot" />
 </p>
 
 👾 What I am interested in learning at some point
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,linux,c,c++,WildFly" />
+  <img src="https://skillicons.dev/icons?i=python,linux,c,c#,oracle" />
 </p>
 
 ---
