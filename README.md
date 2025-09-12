@@ -23,7 +23,7 @@ Languages and Tools:
 👾 What I am interested in learning at some point
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,linux,c,c#,oracle" />
+  <img src="https://skillicons.dev/icons?i=python,linux,c" />
 </p>
 
 ---
