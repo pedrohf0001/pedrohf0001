@@ -29,7 +29,8 @@ Languages and Tools:
 ---
 
 ## 📂 Projetos em Destaque  
-- 🔗 **[DSList](https://github.com/pedrohf0001/dslist)** → A aplicação consiste em uma lista de games, o objetivo principal foi passar por todo o desenvolvimento de um projeto Java Spring.  
+- 🔗 **[DSList](https://github.com/pedrohf0001/dslist)** → A aplicação consiste em uma lista de games, o objetivo principal foi passar por todo o desenvolvimento de um projeto Java Spring.
+- 🔗 **[Busca-palavras](https://github.com/pedrohf0001/busca-palavras)** → A aplicação consiste em buascar palavras via URL, o objetivo principal foi passar por todo o desenvolvimento de um projeto Java Spring adicionando um Contâiner do projeto com o Docker.  
 - 📊 **Integração Sankhya + WMS** → Script em JavaScript para comunicação com APIs externas e automação de estoque.  
 - 🛒 **Hub de Integração com Marketplaces** → Projeto em Java + Spring Boot para centralizar pedidos B2B/B2C com Sankhya.  
 
